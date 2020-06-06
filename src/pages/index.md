@@ -1,21 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
-mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+title: Cole Valley Haight Allies
+image: /img/sidewalk.jpg
+heading: Cole Valley Haight Allies
+subheading: Residents of Cole Valley and Haight supporting our low-income and unhoused neighbors
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We are a group of neighbors in the Cole Valley and Haight neighbors who wish
+  to use our voices to advocate for and be allies to our low-income and
+  unhoused neighbors in District 5.
 intro:
   blurbs:
     - image: /img/coffee.png
