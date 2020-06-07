@@ -1,12 +1,8 @@
 ---
 templateKey: about-page
 path: /about
-title: About Us / 730 Stanyan FAQs
+title: 730 Stanyan FAQs
 ---
-### What is CVHA?
-
-We are Cole Valley and Haight residents and business owners who advocate for our unhoused neighbors. We are in support of low-income housing and other initiatives that address income inequality in San Francisco. In particular, we support the Safe Sleeping site at 730 Stanyan. Our goal is to have a neighborhood that is safe and humane for all its residents, housed and unhoused.
-
 ### What is the Safe Sleeping site?
 
 The Safe Sleeping site at 730 Stanyan is a city-sanctioned tent site that can accommodate 37 tents for unhoused individuals to safely live and social distance during the threat of transmission from COVID-19. Given that persons experiencing homelessness may be especially vulnerable to outbreaks of COVID-19, the Safe Sleeping site allows for adequate social distancing, and adequate access to food, water, sanitation, and basic health services. The site has 24/7 support staff and security.
