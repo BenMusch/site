@@ -1,9 +1,10 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About Us / 730 Stanyan FAQs
 ---
 ### What is CVHA?
+
 We are Cole Valley and Haight residents and business owners who advocate for our unhoused neighbors. We are in support of low-income housing and other initiatives that address income inequality in San Francisco. In particular, we support the Safe Sleeping site at 730 Stanyan. Our goal is to have a neighborhood that is safe and humane for all its residents, housed and unhoused.
 
 ### What is the Safe Sleeping site?
@@ -19,6 +20,7 @@ We support the site because it provides safety for our most vulnerable community
 730 Stanyan Street is owned by the City, and therefore, it is possible to quickly operationalize the site, which is essential due to the time-sensitive nature of the pandemic.
 
 ### Why not hotels?
+
 CVHA agrees that hotel rooms would be a preferable option for our unhoused neighbors. However, the City’s Shelter in Place hotel program has been slow to scale. The Safe Sleeping site is not our first choice option, but it is a safe and healthy alternative, and one that recognizes the urgency of prioritizing human lives during a global pandemic.
 
 ### Who manages the site?
@@ -47,7 +49,7 @@ The site will have a strict capacity limit of 37 tents to ensure physical distan
 
 ### Why are some tents double occupancy — only for existing cohabitation, or other situations as well?
 
-If people have already been doubled up in tents and wish to continue cohabitating, the site accommodates up to two people per tent. [As of June 3, only 2 of 16 tents that have been relocated are doubled up].
+If people have already been doubled up in tents and wish to continue cohabitating, the site accommodates up to two people per tent. \[As of June 3, only 2 of 16 tents that have been relocated are doubled up].
 
 ### Can we put an emergency tent ban in place to keep more encampments from replacing those that move into the Safe Sleeping site?
 
@@ -76,8 +78,9 @@ As allies we are contributing donations, volunteering our time, and providing va
 ### What can I do to help?
 
 Email us at [ColeValleyHaightAllies@gmail.com](mailto:ColeValleyHaightAllies@gmail.com) — we’d love to have your support!
+
 Join our FaceBook group: [CVHA — Cole Valley/Haight Allies of our Unhoused Neighbors](https://www.facebook.com/groups/colevalleyhaightallies/?ref=gs&fref=gs&dti=316007586051859&hc_location=group)
-Follow us on Twitter: [@CVH_Allies](https://twitter.com/CVH_Allies)
-Donate to site operators [Homeless Youth Alliance](http://www.homelessyouthalliance.org/)
+
+Follow us on Twitter: [@CVH_Allies](https://twitter.com/CVH_Allies) Donate to site operators [Homeless Youth Alliance](http://www.homelessyouthalliance.org/)
 
 Please feel free to share this with your family, friends, neighbors, or anyone else who may be interested in building a safe and equitable community for all.
