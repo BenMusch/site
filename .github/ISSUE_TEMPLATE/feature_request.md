@@ -33,4 +33,6 @@ about: Suggest an idea for this project
 
 
 **Are you willing to work on this yourself?**
-yes
+yes/no
+
+cc @benmusch @tve1
