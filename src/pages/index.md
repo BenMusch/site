@@ -3,11 +3,14 @@ templateKey: index-page
 title: Cole Valley Haight Allies
 image: /img/sidewalk.jpg
 heading: Cole Valley Haight Allies
-subheading: Residents of Cole Valley and Haight supporting our low-income and unhoused neighbors
-description: >-
-  We are a group of neighbors in the Cole Valley and Haight neighbors who wish
-  to use our voices to advocate for and be allies to our low-income and
-  unhoused neighbors in District 5.
+subheading: Residents of Cole Valley and Haight supporting our low-income and
+  unhoused neighbors
+description: We are Cole Valley and Haight residents and business owners who
+  advocate for our unhoused neighbors. We are in support of low-income housing
+  and other initiatives that address income inequality in San Francisco. In
+  particular, we support the Safe Sleeping site at 730 Stanyan. Our goal is to
+  have a neighborhood that is safe and humane for all its residents, housed and
+  unhoused.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -28,3 +31,4 @@ intro:
       text: >
         Some fourth pillar here to round-out the site? Lorem ipsum yada yada
         yada.
+---
