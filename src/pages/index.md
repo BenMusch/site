@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Cole Valley Haight Allies
 image: /img/sidewalk.jpg
-heading: Cole Valley Haight Allies
+heading: Who We Are
 subheading: Residents of Cole Valley and Haight supporting our low-income and
   unhoused neighbors
 description: We are Cole Valley and Haight residents and business owners who
