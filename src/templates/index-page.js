@@ -17,7 +17,7 @@ export const IndexPageTemplate = ({
     <div
       className="full-width-image margin-top-0"
       style={{
-        backgroundImage: `url(${
+        background: `linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.45) ), url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `top left`,
@@ -51,7 +51,7 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              '#FE6E00 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
+              '#FE6E00 0.5rem 0px 0px, #FE6E00 -0.5rem 0px 0px',
             backgroundColor: '#FE6E00',
             color: 'white',
             lineHeight: '1',
