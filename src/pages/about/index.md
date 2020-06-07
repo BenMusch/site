@@ -81,6 +81,8 @@ Email us at [ColeValleyHaightAllies@gmail.com](mailto:ColeValleyHaightAllies@gma
 
 Join our FaceBook group: [CVHA — Cole Valley/Haight Allies of our Unhoused Neighbors](https://www.facebook.com/groups/colevalleyhaightallies/?ref=gs&fref=gs&dti=316007586051859&hc_location=group)
 
-Follow us on Twitter: [@CVH_Allies](https://twitter.com/CVH_Allies) Donate to site operators [Homeless Youth Alliance](http://www.homelessyouthalliance.org/)
+Follow us on Twitter: [@CVH_Allies](https://twitter.com/CVH_Allies)
+
+Donate to site operators [Homeless Youth Alliance](http://www.homelessyouthalliance.org/)
 
 Please feel free to share this with your family, friends, neighbors, or anyone else who may be interested in building a safe and equitable community for all.
