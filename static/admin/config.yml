@@ -40,4 +40,4 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact-page"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Sites", name: "sites", widget: "list", fields: [{label: Image, name: image, widget: image}, {label: Link, name: href, widget: text}, {label: Text, name: text, widget: text}]}

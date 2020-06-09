@@ -13,22 +13,16 @@ description: We are Cole Valley and Haight residents and business owners who
   unhoused.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/icon-pillow.png
       text: >
-        We support the Safe Sleeping site at 730 Stanyan street as a significant
-        improvement over the previous sitation for those without a place to
-        sleep, though we recognize the necessity of longer-term solutions as
-        well.
-    - image: /img/coffee-gear.png
+        We support the Safe Sleeping site at 730 Stanyan, though we recognize
+        the necessity of longer-term solutions as well.
+    - image: /img/icon-home.png
       text: >
         We support the development of low-income housing and shelters within our
         district.
-    - image: /img/tutorials.png
+    - image: /img/icon-hands.png
       text: >
-        We volunteer our time and resources in order to assist organizations
-        which provide resources to those in need.
-    - image: /img/meeting-space.png
-      text: >
-        Some fourth pillar here to round-out the site? Lorem ipsum yada yada
-        yada.
+        We offer our time and resources to help improve the conditions for those
+        without housing in the neighborhood.
 ---
