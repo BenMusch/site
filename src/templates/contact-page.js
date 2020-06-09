@@ -25,7 +25,6 @@ export const ContactPageTemplate = ({ title, sites }) => {
 
 ContactPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
-  content: PropTypes.string,
   sites: PropTypes.array,
 }
 
