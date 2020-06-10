@@ -71,6 +71,10 @@ The Safe Sleeping Site’s success will be measured by the ability to maintain s
 
 As allies we are contributing donations, volunteering our time, and providing various support as needed. We are in close communication with site managers and the wider neighborhood community to help share accurate information.
 
+### Has the CVHA called for any boycotts? Does the CVHA support any boycotts?
+
+No. The CVHA has not called for any boycotts nor signed on in support of any boycotts. There have been calls for boycotting some of the businesses involved by some in the neighborhood, but these calls did not come from CVHA, nor from its leadership. **CVHA urges people to take caution before calling for such a boycott.** Some businesses were not fully informed at first and have changed their stance towards the safe sleeping site. Additionally, at least one business was falsely attributed with an opinion on the safe sleeping site without their consent or knowledge.
+
 ### What can I do to help?
 
 Email us at [ColeValleyHaightAllies@gmail.com](mailto:ColeValleyHaightAllies@gmail.com) — we’d love to have your support!
