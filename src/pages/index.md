@@ -6,11 +6,11 @@ heading: Who We Are
 subheading: Residents of Cole Valley and Haight supporting a just and equitable
   neighborhood for all neighbors.
 description: We are Cole Valley and Haight residents and business owners who
-  advocate for our unhoused neighbors. We are in support of low-income housing
-  and other initiatives that address income inequality in San Francisco. In
-  particular, we support the Safe Sleeping site at 730 Stanyan. Our goal is to
-  have a neighborhood that is safe and humane for all its residents, housed and
-  unhoused.
+  advocate for an equitable neighborhood for all. We are in support of
+  low-income housing and other initiatives that address income inequality in San
+  Francisco. We initially coalesced around supporting the Safe Sleeping site at
+  730 Stanyan. Our broader goal is to have a neighborhood that is safe and
+  humane for all residents, housed and unhoused.
 intro:
   blurbs:
     - image: /img/icon-pillow.png
