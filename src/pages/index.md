@@ -36,9 +36,8 @@ closing:
   heading: What else is CVHA involved with?
   text: We welcome input and contribution from all of our members, so please feel
     free to suggest projects or ideas in our Facebook  group or email us at
-    [colevalleyhaightallies@gmail.com](mailto:colevalleyhaightallies.com)! We
-    value neighborliness, community, action, and accountability. We strive to be
-    inclusive of neighbors who may have different opinions in an effort to find
-    common ground for solutions that work for all neighbors - housed and
-    unhoused.
+    colevalleyhaightallies@gmail.com! We value neighborliness, community,
+    action, and accountability. We strive to be inclusive of neighbors who may
+    have different opinions in an effort to find common ground for solutions
+    that work for all neighbors - housed and unhoused.
 ---
