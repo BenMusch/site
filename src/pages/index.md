@@ -14,18 +14,27 @@ description: We are Cole Valley and Haight residents and business owners who
 intro:
   blurbs:
     - image: /img/icon-pillow.png
+      heading: Harm Reduction
       text: >
-        Harm Reduction: We support practical solutions that provide relief for
+        We support practical solutions that provide relief for
         unhoused residents such as the development of safe sleeping sites and
         shelters.
     - image: /img/icon-home.png
-      text: "Systemic Change: We support policies that divest from the policing of
+      heading: Systemic Change
+      text: "We support policies that divest from the policing of
         unhoused residents and invest in sustainable solutions that seek to
         address the systemic neglect and oppression of unhoused residents
         throughout San Francisco."
     - image: /img/icon-hands.png
+      heading: Mutual Aid
       text: >
-        Mutual Aid: We offer our time and resources to help improve the
+        We offer our time and resources to help improve the
         conditions for unhoused residents and work towards other issues of
         equity in the neighborhood.
+button:
+ text: Learn more about us!
+ href: '/about'
+closing:
+ heading: What else is CVHA involved with?
+ text: We welcome input... (fill in via UI)
 ---

@@ -23,6 +23,8 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <p style={{ textAlign: 'center' }}>
+            { item.heading && (<b>{item.heading}</b>) }
+            { item.heading && <br/> }
             {item.href ? <a href={item.href} target="_blank">{item.text}</a> : item.text}
           </p>
         </section>
@@ -36,6 +38,8 @@ FeatureGrid.propTypes = {
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
       text: PropTypes.string,
+      heading: PropTypes.string,
+      href: PropTypes.string,
     })
   ),
 }
