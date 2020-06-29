@@ -67,7 +67,7 @@ const Navbar = class extends React.Component {
                 Contact & Get Involved
               </Link>
               <a className="navbar-item" href="https://forms.gle/sWWWWKem2NuWkPUk8" target="_blank">
-                Sign our Petition
+                Sign Our Petition
               </a>
             </div>
           </div>
