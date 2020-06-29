@@ -19,7 +19,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div style={{ maxWidth: '100vw' }} className="columns">
-              <div className="column is-4">
+              <div className="column is-6">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
@@ -50,18 +50,7 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
-                      </Link>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-4 social">
+              <div className="column is-6 social">
                 <a title="facebook" href="https://www.facebook.com/groups/colevalleyhaightallies/?ref=gs&fref=gs&dti=316007586051859&hc_location=group">
                   <img
                     src={facebook}
