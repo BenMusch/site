@@ -83,11 +83,11 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
+                {/* commenting out until this CTA makes more sense <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to={button.href}>{button.text}</Link>
                   </div>
-                </div>
+                </div>*/}
                 <div className="columns" style={{marginTop: '2rem'}}>
                   <div className="column is-12">
                     <h4 className="has-text-weight-semibold is-size-3">
