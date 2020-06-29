@@ -1,8 +1,12 @@
 ---
 templateKey: contact-page
 path: /contact
-title: Contact
+title: Contact and Get Involved
 sites:
+  - image: /img/icon-news.png
+    href: http://eepurl.com/g7YEQb
+    text: >
+      Join our mailing list
   - image: /img/icon-fb.png
     href: https://www.facebook.com/groups/colevalleyhaightallies/
     text: >

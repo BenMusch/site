@@ -2,10 +2,11 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
-const FeatureGrid = ({ gridItems }) => (
-  <div className="columns is-multiline">
+const FeatureGrid = ({ gridItems }) => {
+  const gridSize = (gridItems.length % 2 === 0) ? 3 : 4
+  return (<div className="columns is-multiline">
     {gridItems.map((item) => (
-      <div key={item.text} className="column is-4">
+      <div key={item.text} className={'column is-' + gridSize}>
         <section className="section">
           <div className="has-text-centered">
             <div
@@ -30,8 +31,8 @@ const FeatureGrid = ({ gridItems }) => (
         </section>
       </div>
     ))}
-  </div>
-)
+  </div>)
+}
 
 FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(

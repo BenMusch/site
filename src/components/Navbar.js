@@ -64,22 +64,10 @@ const Navbar = class extends React.Component {
                 About 730 Stanyan
               </Link>
               <Link className="navbar-item" to="/contact">
-                Contact
+                Contact & Get Involved
               </Link>
-              <Link className="navbar-item" to="http://eepurl.com/g7YEQb">
-                Join Us!
-              </Link>
-            </div>
-            <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://github.com/CVHA/site"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
+              <a className="navbar-item" href="https://forms.gle/sWWWWKem2NuWkPUk8" target="_blank">
+                Sign our Petition
               </a>
             </div>
           </div>

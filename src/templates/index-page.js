@@ -23,7 +23,7 @@ export const IndexPageTemplate = ({
     <div
       className="full-width-image margin-top-0"
       style={{
-        background: `linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.45) ), url(${
+        background: `linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2) ), url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `top left`,
