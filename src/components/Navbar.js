@@ -66,9 +66,18 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 Contact & Get Involved
               </Link>
-              <a className="navbar-item" href="https://forms.gle/sWWWWKem2NuWkPUk8" target="_blank">
-                Sign Our Petition
-              </a>
+              <div className="navbar-item is-hoverable has-dropdown">
+                <a className="navbar-link" href="#">Sign Our Petitions</a>
+
+                <div className="navbar-dropdown">
+                  <a className="navbar-item" href="https://forms.gle/sWWWWKem2NuWkPUk8">
+                    Support Safe Sleeping Sites and Low-Income Housing
+                  </a>
+                  <a className="navbar-item" href="https://www.change.org/p/mayor-london-breed-demand-for-a-humane-and-public-health-based-approach-to-homelessness-in-san-francisco?utm_source=share_petition&utm_medium=custom_url&recruited_by_id=8e35c010-bb4b-11ea-99da-1d80430f666d">
+                    Demand Humane Homelessness Policy
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
