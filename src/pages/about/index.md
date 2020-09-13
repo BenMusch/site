@@ -1,77 +1,66 @@
 ---
 templateKey: about-page
 path: /about
-title: 730 Stanyan FAQs
+title: CVHA FAQs
 ---
-### What is the Safe Sleeping site?
+### What is CVHA?
 
-The Safe Sleeping site at 730 Stanyan is a city-sanctioned tent site that can accommodate 37 tents for unhoused individuals to safely live and social distance during the threat of transmission from COVID-19. Given that persons experiencing homelessness may be especially vulnerable to outbreaks of COVID-19, the Safe Sleeping site allows for adequate social distancing, and adequate access to food, water, sanitation, and basic health services. The site has 24/7 support staff and security.
+CVHA (Cole Valley Haight Allies) is a group of neighbors in the Cole Valley and
+Haight neighborhoods who support efforts to imrpove the lives of our unhoused
+and low-income neighbors, such as the development of affordable housing, safe
+sleeping sites and shelters.
 
-### Why does CVHA support the Safe Sleeping site?
+### Does CVHA accept donations?
 
-We support the site because it provides safety for our most vulnerable community members amidst a global pandemic. By keeping its residents safer from COVID-19, the entire neighborhood is safer in turn.
+**In-kind donations:**
 
-### Why was 730 Stanyan Street chosen for the location of the site?
+In general, the 730 Stanyan site accepts clean causl clothes, sneakers,
+new/unused socks/underwear, and cloth masks. CVHA also generally accepts first
+aid kits, baby wipes, packs of water bottles, gatorade, snack bars, dog food,
+backpacks, suitcases, sleeping bags and tents. **Please do not show up at 730
+Stanyan without clearing it with CVHA first.** You can do that by reaching out
+over [email](mailto:ColeValleyHaightAllies@gmail.com).
 
-730 Stanyan Street is owned by the City, and therefore, it is possible to quickly operationalize the site, which is essential due to the time-sensitive nature of the pandemic.
+**Monetary donations:**
 
-### Why not hotels?
+Though we previously accepted money via PayPal to make grocery runs to
+distribute to unhoused people in the neighborhood, we now only encourage
+donations directly to other advocacy orgs. Some recommendations include
+[Homeless Youth Alliance](https://homelessyouthalliance.networkforgood.com/projects/91439-donate-to-homeless-youth-alliance)
+(the operators of CAMP) or [Coalition on Homelessness](https://www.cohsf.org/get-involved/ways-to-give/).
+We also encourage you to donate to [SF Neighbors Solidarity Fund](https://twitter.com/Solidarity_SF),
+[SF Community Fridge](https://www.gofundme.com/f/san-francisco-community-fridge-fund?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link-tip), [Street Medic Couper](https://gf.me/u/yjwkbz), and
+[DSA SF’s #HotelsNotHospitals Fund](https://gf.me/u/yuh2cq).
 
-CVHA agrees that hotel rooms would be a preferable option for our unhoused neighbors. However, the City’s Shelter in Place hotel program has been slow to scale. The Safe Sleeping site is not our first choice option, but it is a safe and healthy alternative, and one that recognizes the urgency of prioritizing human lives during a global pandemic.
+### Can I volunteer with CVHA?
 
-### Who manages the site?
+We help with a handful of initiatives which can use volunteers:
 
-The site is operated by Larkin Street Youth Services and Homeless Youth Alliance, both veteran providers of services for unhoused populations in San Francisco. Both organizations have long-standing relationships with the city’s unhoused populations and working in partnership together.
+ - CVHA volunteers deliver hot meals to unhoused San Franciscans every night.
+ We currently have people scheduled for each day of the week, but are always in
+ need of people to fill-in when others cannot make it. The meals are picked up
+ at 730 Stanyan at 5:30pm. To sign up, [email us](mailto:ColeValleyHaightAllies@gmail.com).
+ - CVHA is currently partnering with a mutual aid coalition of groups called the
+ Common Humanity Collective to manufacture and distribute FREE hand sanitizer,
+ face masks, and disinfectant wipes for unhoused people in San Francisco. With
+ the help of Supervisor Preston’s staff, CHC is running a D5 operation out of
+ Redemption Church on Divisadero & McAllister. If you’re interested in getting
+ involved, [email us](mailto:ColeValleyHaightAllies@gmail.com). More info [here](bit.ly/mutual-aid-hand-sanitizer)
+ - CVHA volunteers prepare and deliver a home cooked dinner to 730 Stanyan every
+ other Tuesday. To join the 730 Feast Team, [email us](mailto:ColeValleyHaightAllies@gmail.com).
+ Feel free to also email us if you’re interested in contributing funds or
+ ingredients towards these dinners.
+ - CVHA volunteers buy and drop off groceries to our unhoused neighbors every weekend.
+ If you’re interested in handling a grocery run and/or donating groceries,
+ [email us](mailto:ColeValleyHaightAllies@gmail.com).
 
-### What safety precautions will be put in place?
 
-The site is staffed 24/7, including a staffed and secure gate. All staff on-site have experience working with unhoused populations. The City has also contracted with Treeline Security, a private security company, for onsite support. Park Station police have established a plan for monitoring the surrounding area, both on foot and by patrol car.
+### What is the Safe Sleeping site at 730 Stanyan? Why does CVHA support it?
 
-### What about drug use and crime?
+Check out our [730 Stanyan FAQ page](/about/730) for answers to all
+questions about the site!
 
-While open illicit drug use is not sanctioned, we cannot control unhoused adults choosing to partake in drugs and alcohol any more than we can control the substance use of housed adults. Staff and security are on-site to ensure safety for all community members, and Homeless Youth Alliance (HYA) works with Safe Sleeping site residents to establish a code of conduct around drug use and noise.
-
-### How long will the Safe Sleeping site be open?
-
-Supervisor Preston’s office has announced that the site will be in operation for 3–6 months, as of its opening day, May 29. In addition to Supervisor Preston, Homeless Youth Alliance (HYA), Larkin Street Youth Services, Healthy Streets Operations Center (HSOC) and Emergency Operations Center (EOC) have committed to the site not extending beyond a 6 month timeframe.
-
-### What happens when the threat of COVID-19 has subsided?
-
-The Safe Sleeping site will be closed. Within 45 days of planned closure, no new participants will be accepted, and onsite staff will work with all residents on a transition plan, which may include moving into a shelter-in-place hotel, accessing a permanent housing option, a residential treatment bed, moving in with a friend or family, or another more stable option. Residents will not be allowed to stay at the site after it is closed. As this is a swift emergency action for a vulnerable population in the midst of a pandemic, it’s not possible to guarantee any specific outcomes, but everyone involved is committed to finding the best solution for each individual.
-
-### How can I be sure that the Safe Sleeping site will socially distance?
-
-The site will have a strict capacity limit of 37 tents to ensure physical distancing, health and safety for all. Participants will be expected to follow Shelter in Place guidelines.
-
-### Why are some tents double occupancy — only for existing cohabitation, or other situations as well?
-
-If people have already been doubled up in tents and wish to continue cohabitating, the site accommodates up to two people per tent. \[As of June 3, only 2 of 16 tents that have been relocated are doubled up].
-
-### Can we put an emergency tent ban in place to keep more encampments from replacing those that move into the Safe Sleeping site?
-
-Instead of banning tents, offering safe alternatives to homelessness are much more effective, so the groups running the site will focus on making the Safe Sleeping site a safe and appealing alternative.
-
-### Won’t the site lead to an increase in crime?
-
-There is no reason to believe that crime would increase. Access to basic needs in a safe and secure environment relieves participants of many of the tensions of living and sleeping on the street.
-
-### Did handing out tents create the initial problem of encampments?
-
-No. The pandemic created this crisis; tents were provided to unhoused individuals when the shelter system stopped taking in clients and were mandated to reduce their occupancy. Those distributing tents were following the CDC’s guidance.
-
-### Will this be dangerous for Whole Foods shoppers or those entering Golden Gate Park with their families?
-
-No. Moving people from the street into the Safe Sleeping Site makes the surrounding area safer, not less safe. Police are monitoring the surrounding area, and site participants have daily health screenings for COVID-19 symptoms. Any resident with symptoms will follow DPH protocols for testing and isolation/quarantine in a hotel should a positive case occur.
-
-### What are the benchmarks for success?
-
-The Safe Sleeping Site’s success will be measured by the ability to maintain safe physical distancing, safe storage of belongings, provide access to sanitation services for unhoused residents of the Haight, and minimize the impact of people who are staying in tents on the neighbors and businesses of the Haight.
-
-### How is CVHA supporting the Safe Sleeping site?
-
-As allies we are contributing donations, volunteering our time, and providing various support as needed. We are in close communication with site managers and the wider neighborhood community to help share accurate information.
-
-### Has the CVHA called for any boycotts? Does the CVHA support any boycotts?
+### Has the CVHA recommend boycotting local businesses?
 
 No. The CVHA has not called for any boycotts nor signed on in support of any boycotts. There have been calls for boycotting some of the businesses involved by some in the neighborhood, but these calls did not come from CVHA, nor from its leadership. **CVHA urges people to take caution before calling for such a boycott.** Some businesses were not fully informed at first and have changed their stance towards the safe sleeping site. Additionally, at least one business was falsely attributed with an opinion on the safe sleeping site without their consent or knowledge.
 
