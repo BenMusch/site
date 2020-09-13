@@ -26,7 +26,9 @@ collections:
           - {label: Heading, name: heading, widget: string}
           - {label: Subheading, name: subheading, widget: string}
           - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+          - {label: Intro, name: intro, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Heading, name: heading, widget: string}, {label: Text, name: text, widget: text}]}]}
+          - {label: Button, name: button, widget: object, fields: [{label: Text, name: text, widget: string}, {label: Href, name: href, widget: string}]}
+          - {label: Closing, name: closing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Content, name: text, widget: text}]}
       - file: "src/pages/about/index.md"
         label: "About CVHA"
         name: "about"

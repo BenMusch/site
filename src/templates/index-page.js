@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
+import Content, { HTMLContent } from '../components/Content'
 
 export const IndexPageTemplate = ({
   image,
@@ -12,12 +13,17 @@ export const IndexPageTemplate = ({
   subheading,
   description,
   intro,
-}) => (
-  <div>
+  button,
+  closing,
+  contentComponent,
+}) => {
+  const PageContent = contentComponent || Content
+
+  return (<div>
     <div
       className="full-width-image margin-top-0"
       style={{
-        background: `linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.45) ), url(${
+        background: `linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2) ), url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `top left`,
@@ -77,11 +83,17 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
+                {/* commenting out until this CTA makes more sense <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/about">
-                      Learn more about us
-                    </Link>
+                    <Link className="btn" to={button.href}>{button.text}</Link>
+                  </div>
+                </div>*/}
+                <div className="columns" style={{marginTop: '2rem'}}>
+                  <div className="column is-12">
+                    <h4 className="has-text-weight-semibold is-size-3">
+                      {closing.heading}
+                    </h4>
+                    <PageContent className="content" content={closing.text} />
                   </div>
                 </div>
               </div>
@@ -90,8 +102,8 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </section>
-  </div>
-)
+  </div>)
+}
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -102,6 +114,11 @@ IndexPageTemplate.propTypes = {
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
+  button: PropTypes.shape({
+    text: PropTypes.string,
+    href: PropTypes.string,
+  }),
+  contentComponent: PropTypes.func,
 }
 
 const IndexPage = ({ data }) => {
@@ -110,11 +127,14 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
+        contentComponent={HTMLContent}
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
         description={frontmatter.description}
+        button={frontmatter.button}
+        closing={frontmatter.closing}
         intro={frontmatter.intro}
       />
     </Layout>
@@ -156,7 +176,16 @@ export const pageQuery = graphql`
               }
             }
             text
+            heading
           }
+        }
+        button {
+          text
+          href
+        }
+        closing {
+          heading
+          text
         }
       }
     }
